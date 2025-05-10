@@ -1,5 +1,5 @@
 # Power-BI-Blinkit-Sales-Dashboard
-# Blinkit Sales Dashboard
+
 
 The project focuses on building a dynamic dashboard utilizing Power BI to analyze sales data from “Blinkit,” a popular online grocery shopping platform. This interactive dashboard will visualize various metrics using filters, charts, and key performance indicators (KPIs). 
 
